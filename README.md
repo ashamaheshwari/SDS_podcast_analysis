@@ -1,6 +1,6 @@
-### Nashville Software School Capstone Project
+# Nashville Software School Capstone Project
 
-# SDS_podcast_analysis
+### SDS_podcast_analysis
 
 Executive Summary
 
