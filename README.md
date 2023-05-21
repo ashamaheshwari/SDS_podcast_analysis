@@ -4,7 +4,7 @@
 
 Executive Summary
 
-Podcasts are more popular than ever in United States and its future looks very promising. With ease of access and extensive pool of content available on different genres, there are over 82 million people listened to podcasts in 2021 and these numbers are estimated to rise even further, reaching over 100 million listeners in 2024. 
+Podcasts are more popular than ever in [United States](https://www.statista.com/chart/10713/podcast-listeners-in-the-united-states/) and its future looks very promising. With ease of access and extensive pool of content available on different genres, there are over 82 million people listened to podcasts in 2021 and these numbers are estimated to rise even further, reaching over 100 million listeners in 2024. 
 
 There are number of Data Science podcasts featured on different platforms. The goal of this project is to build unsupervised Natural Language Processing (NLP) machine learning models to analyze Data Science Podcast content. I will scrap the text data/transcripts for about 670 episodes of Super Data Science podcast. The collected text data will undergo various NLP analysis tools to potentially extract interesting information and patterns from this pool of fascinating conversation. This project will involve web scraping, understanding data, data wrangling, exploratory data analysis (EDA), sentiment analysis, data preprocessing, and data modeling. 
 
