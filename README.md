@@ -4,9 +4,9 @@
 
 Executive Summary
 
-Podcasts are more popular than ever in [United States](https://www.statista.com/chart/10713/podcast-listeners-in-the-united-states/) and its future looks very promising. With ease of access and extensive pool of content available on different genres, there are over 82 million people listened to podcasts in 2021 and these numbers are estimated to rise even further, reaching over 100 million listeners in 2024. 
+Podcasts are more popular than ever in [United States](https://www.statista.com/chart/10713/podcast-listeners-in-the-united-states/) and its future looks very promising. With ease of access and extensive pool of content available on [different genres](https://www.buzzsprout.com/blog/podcast-statistics), there are over [82 million people listened to podcasts in 2021](https://www.statista.com/topics/3170/podcasting/#topicOverview) and these numbers are estimated to rise even further, reaching over 100 million listeners in 2024. 
 
-There are number of Data Science podcasts featured on different platforms. The goal of this project is to build unsupervised Natural Language Processing (NLP) machine learning models to analyze Data Science Podcast content. I will scrap the text data/transcripts for about 670 episodes of Super Data Science podcast. The collected text data will undergo various NLP analysis tools to potentially extract interesting information and patterns from this pool of fascinating conversation. This project will involve web scraping, understanding data, data wrangling, exploratory data analysis (EDA), sentiment analysis, data preprocessing, and data modeling. 
+There are number of Data Science podcasts featured on different platforms. The goal of this project is to build unsupervised Natural Language Processing (NLP) machine learning models to analyze Data Science Podcast content. I will scrap the text data/transcripts for about 670 episodes of [Super Data Science](https://www.superdatascience.com/podcast) podcast. The collected text data will undergo various NLP analysis tools to potentially extract interesting information and patterns from this pool of fascinating conversation. This project will involve web scraping, understanding data, data wrangling, exploratory data analysis (EDA), sentiment analysis, data preprocessing, and data modeling. 
 
 Motivation
 
@@ -23,7 +23,7 @@ Ultimately, I am curious to see what patterns I could uncover on podcast content
 4.	What are the sentiments associated with topics and how these sentiments differ based on guest and field of study? 
 
 Stretch goal and questions:
-I am also interested in performing sentiment analysis on reviews for this podcast and topics discussed. Reviews will either scrapped from YouTube or Chartable  or any other relevant platform.
+I am also interested in performing sentiment analysis on reviews for this podcast and topics discussed. Reviews will either scrapped from [YouTube](https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ) or [Chartable](https://chartable.com/podcasts/superdatascience/reviews)  or any other relevant platform.
 
 
 Minimum Viable Product
