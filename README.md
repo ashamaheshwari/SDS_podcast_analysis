@@ -22,9 +22,6 @@ Ultimately, I am curious to see what patterns I could uncover on podcast content
 3.	What are the different topics discussed and they have evolved over the time? 
 4.	What are the sentiments associated with topics and how these sentiments differ based on guest and field of study? 
 
-Stretch goal and questions:
-I am also interested in performing sentiment analysis on reviews for this podcast and topics discussed. Reviews will either scrapped from [YouTube](https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ) or [Chartable](https://chartable.com/podcasts/superdatascience/reviews)  or any other relevant platform.
-
 
 Minimum Viable Product
 
