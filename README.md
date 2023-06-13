@@ -1,7 +1,6 @@
 
 # SDS podcast NLP analysis
 
-This project was carried out 
 
 ### Executive Summary
 
